@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **The God Empire Discord Bots**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python and Website**
 
 - 👨‍💻 All of my projects are available at [Soon!](Soon!)
 
