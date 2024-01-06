@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python and Website**
 
-- 👨‍💻 All of my projects are available at [Soon!](Soon!)
+- 👨‍💻 The God Empire Website [Soon!](Soon!)
 
 - 📝 My Portfolio Website [Soon!](Soon!)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vishnuthegod2006@gmail.com**
 
-- 📄 Know about my experiences [Soon!](Soon!)
+- 📄 All of my projects are available at [Soon!](Soon!)
 
 - ⚡ Fun fact **I have an Experience of 2 Years**
 
