@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Soon!](Soon!)
 
-- 📝 I regularly write articles on [Soon!](Soon!)
+- 📝 My Portfolio Website [Soon!](Soon!)
 
 - 💬 Ask me about **Python or Science**
 
