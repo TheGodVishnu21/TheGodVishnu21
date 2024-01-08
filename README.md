@@ -19,9 +19,7 @@
 
 - 💬 Ask me about **Python or Science**
 
-- 📫 How to reach me **vishnuthegod2006@gmail.com**
-
-- 📄 All of my projects are available at [Soon!](Soon!)
+- 📫 How to reach me **thegodempire17@gmail.com**
 
 - ⚡ Fun fact **I have an Experience of 2 Years**
 
