@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python and Website**
 
-- 👨‍💻 The God Empire Website [Soon!](Soon!)
+- 👨‍💻 The God Empire Website [https://thegodempire2.web.app/](https://thegodempire2.web.app/)
 
 - 📝 My Portfolio Website [Soon!](Soon!)
 
