@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with **Python and Website**
 
-- 👨‍💻 The God Empire Website [https://thegodempire2.web.app/](https://thegodempire2.web.app/)
+- 👨‍💻 The God Empire Website [https://thegodempire.web.app/](https://thegodempire.web.app/)
 
-- 📝 My Portfolio Website [https://thegodvishnu21.web.app/](https://thegodvishnu21.web.app/)
+- 📝 My Portfolio Website [https://ishaanvishnu.web.app/](https://ishaanvishnu.web.app/)
 
 - 💬 Ask me about **Python or Science**
 
