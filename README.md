@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ishaan Sandhwar</h1>
 <h3 align="center">A Student and Developer From India</h3>
 
-<img align="right" alt="study-coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="study-coding" width="400" src="https://github.com/TheGodVishnu21/TheGodVishnu21/blob/main/5999b9eb.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegodvishnu21&label=Profile%20views&color=0e75b6&style=flat" alt="thegodvishnu21" /> </p>
 
