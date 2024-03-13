@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with **Python and Website**
 
-- 👨‍💻 The God Empire Website [https://thegodempire.web.app/](https://thegodempire.web.app/)
+- 👨‍💻 The God Empire Website [SOON!](SOON!)
 
-- 📝 My Portfolio Website [https://ishaanvishnu.web.app/](https://ishaanvishnu.web.app/)
+- 📝 My Portfolio Website [SOON!](SOON!)
 
 - 💬 Ask me about **Python or Science**
 
 - 📫 How to reach me **thegodempire17@gmail.com**
 
-- 📄 All of My Projects are Available at []()
+- 📄 All of My Projects are Available at [SOON!](SOON!)
 
 - ⚡ Fun fact **I have an Experience of 2 Years**
 
