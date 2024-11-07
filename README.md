@@ -41,6 +41,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegodvishnu21&theme=radical&" alt="thegodvishnu21" /></p>
 
+## 🔥 My Coding Streak:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=louis103&layout=compact&theme=synthwave" /></p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thegodvishnu21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
