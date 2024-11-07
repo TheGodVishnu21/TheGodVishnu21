@@ -45,6 +45,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=thegodvishnu21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeTHaLOp17&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thegodvishnu21&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegodvishnu21&label=Profile%20views&color=0e75b6&style=flat" alt="thegodvishnu21" /> </p>
