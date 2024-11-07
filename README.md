@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Studies and Coding**
 
-- 🌱 I’m currently learning **Science, Python and Website**
+- 🌱 I’m currently learning **Btech Computer Science Engineering with Artificial Intelligence and Machine learning.**
 
-- 👯 I’m looking to collaborate on **The God Empire Discord Bots**
+- 👯 I’m looking to collaborate on **The God Empire Website.**
 
 - 🤝 I’m looking for help with **Python and Website**
 
@@ -16,7 +16,7 @@
 
 - 📝 My Portfolio Website [SOON!](SOON!)
 
-- 💬 Ask me about **Python or Science**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **thegodempire17@gmail.com**
 
