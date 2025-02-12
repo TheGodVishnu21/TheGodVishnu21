@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegodvishnu21&show_icons=true&theme=radical&locale=en" alt="thegodvishnu21" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com?user=TheGodVishnu21&theme=radical)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheGodVishnu21&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 My Coding Streak:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheGodVishnu21&layout=compact&theme=synthwave" /></p>
