@@ -63,25 +63,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<table>
-<tr>
-<td>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thegodvishnu21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegodvishnu21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
 
 ### 📊 Activity Overview
 ![Commits](https://img.shields.io/badge/Total%20Commits-500+-00d9ff?style=for-the-badge&logo=git&logoColor=white)
