@@ -25,7 +25,6 @@
 🎓 **B.Tech Computer Science** with specialization in **Artificial Intelligence & Machine Learning**  
 🔮 **2+ Years** of coding experience and growing  
 💡 Passionate about creating innovative solutions with **Python** and **Web Technologies**  
-🌟 Building **The God Empire** - A comprehensive tech platform  
 📚 Always learning, always coding, always evolving  
 
 ### 🎯 Current Focus
@@ -35,7 +34,6 @@
 - 🤝 Seeking opportunities in **AI Research** and **Software Engineering**
 
 ### 💼 What I'm Building
-- 🌐 **The God Empire Website** - Revolutionary tech platform *(Coming Soon!)*
 - 📄 **Personal Portfolio** - Showcasing my journey *(In Development)*
 - 🚀 **AI-Powered Applications** - Pushing boundaries of technology
 
