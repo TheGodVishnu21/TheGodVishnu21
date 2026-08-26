@@ -1,150 +1,129 @@
 <div align="center">
-  <img src="https://github.com/TheGodVishnu21/TheGodVishnu21/blob/main/Untitled266_20240306192312.png" alt="logo" width="200"/>
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishaan+Sandhwar;AI+%26+ML+Engineering+Student;Full-Stack+Developer+%7C+Python+Enthusiast;Building+The+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="Untitled266_20240306192312.png" alt="logo" width="110"/>
 
-</div>
+# Ishaan Sandhwar
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/TheGodVishnu21?style=for-the-badge&logo=github&logoColor=white&labelColor=282c34&color=00d9ff)](https://github.com/TheGodVishnu21)
-[![GitHub stars](https://img.shields.io/github/stars/TheGodVishnu21?style=for-the-badge&logo=github&logoColor=white&labelColor=282c34&color=00d9ff)](https://github.com/TheGodVishnu21)
-[![Profile views](https://komarev.com/ghpvc/?username=thegodvishnu21&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/TheGodVishnu21)
+**B.Tech CSE — AI/ML specialization @ Lovely Professional University · Class of 2028**
 
-</div>
+Algorithms se pehle library nahi. PSO, Dijkstra, heaps, hash maps — scratch se likhta hoon, phir libraries use karta hoon.
 
----
-
-<img align="right" alt="coding-animation" width="400" src="https://github.com/TheGodVishnu21/TheGodVishnu21/blob/main/5999b9eb.png">
-
-### 🚀 About Me
-
-🎓 **B.Tech Computer Science** with specialization in **Artificial Intelligence & Machine Learning**  
-🔮 **2+ Years** of coding experience and growing  
-💡 Passionate about creating innovative solutions with **Python** and **Web Technologies**  
-📚 Always learning, always coding, always evolving  
-
-### 🎯 Current Focus
-- 🔭 Working on **Advanced AI/ML Projects** and **Full-Stack Development**
-- 🌱 Mastering **Deep Learning**, **Cloud Computing**, and **DevOps**
-- 👯 Looking to collaborate on **Open Source AI Projects**
-- 🤝 Seeking opportunities in **AI Research** and **Software Engineering**
-
-### 💼 What I'm Building
-- 📄 **Personal Portfolio** - Showcasing my journey *(In Development)*
-- 🚀 **AI-Powered Applications** - Pushing boundaries of technology
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,flask,django&theme=dark)](https://skillicons.dev)
-
-### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,docker,aws,linux&theme=dark)](https://skillicons.dev)
-
-### AI/ML & Data Science
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+[![Email](https://img.shields.io/badge/Email-thegodempire17@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thegodempire17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE-HERE)
+[![X](https://img.shields.io/badge/X-@TheGodVishnu21-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/thegodvishnu21)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/FMVyVEX3ua)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Featured Projects
 
-<div align="center">
+### 🚨 LifeLine — Smart City Disaster Response & Evacuation Simulator
+Zero-dependency **C++17** backend serving a REST API *and* a built React (Vite) frontend from a single static binary. Fictional city of 40 locations and 83 roads.
 
-### 📊 Activity Overview
-![Commits](https://img.shields.io/badge/Total%20Commits-500+-00d9ff?style=for-the-badge&logo=git&logoColor=white)
-![Years Active](https://img.shields.io/badge/Years%20Active-2+-00d9ff?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Public%20Repos-20+-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+- Custom **min-heap, max-heap, djb2 hash map, trie, Union-Find** — written from scratch, no STL containers
+- Dijkstra, A\*, Bellman-Ford, Floyd-Warshall, Edmonds-Karp max-flow/min-cut, BFS disaster spread, Tarjan bridges, Prim/Kruskal MST, 0/1 knapsack DP
+- **96 checks across 5 test suites**, cross-verified against `networkx` over 1,600+ node pairs
+- A\* settles **8 nodes vs Dijkstra's 24** on the same 4.78 km path
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Ishaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thegodvishnu21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+`C++17` `React` `Vite` `Leaflet` `REST`
+→ **[Code](https://github.com/TheGodVishnu21/lifeline)** · [Live demo](https://github.com/TheGodVishnu21/lifeline#demo)
 
 ---
 
-## 🔝 Top Contributed Repositories
+### 💳 PSO Credit Card Fraud Detection
+Binary **Particle Swarm Optimization implemented from scratch** (sigmoid transfer function, repair mask, early stopping) for feature selection on a heavily imbalanced fraud dataset — 50,000 rows, 492 fraud cases (0.98% positive rate).
 
-<div align="center">
+- 30 features → **7 selected**; swarm converged at iteration 18 (30 particles, 50 max iters)
+- PSO + Random Forest: **ROC-AUC 0.977 · PR-AUC 0.886 · F1 0.888 · MCC 0.888**
+- Logistic-regression baseline on all 30 features: ROC-AUC 0.974 · PR-AUC 0.881 — documented honestly, including where precision *drops*
+- SMOTE applied to the training split only, 7 unit tests on the PSO core, Parquet caching for 5–10× faster repeat runs, 4-tab Streamlit dashboard
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=thegodvishnu21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-thegodempire17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegodempire17@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@thegodvishnu21-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thegodvishnu21)
-[![YouTube](https://img.shields.io/badge/YouTube-TheGodVishnu21-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/thegodvishnu21)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FMVyVEX3ua)
-
-</div>
+`Python` `scikit-learn` `imbalanced-learn` `Streamlit` `pytest`
+→ **[Code](https://github.com/TheGodVishnu21/PSO_Credit_Card_Fraud_Detection)**
 
 ---
 
-## 🎯 Fun Facts & Dynamic Content
+### 🛍️ Product Intelligence Engine
+LLM + RAG pipeline for automated product catalogue enrichment — messy listings in, structured attributes out.
 
-<div align="center">
+`Python` `LLM` `RAG` `embeddings`
+→ **[Code](https://github.com/TheGodVishnu21/product-intelligence-engine)**
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Random Programming Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117)
-
-### 🐍 Snake eating my contributions
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<!-- TODO Ishaan: SUBMISSION.md se 3 real bullets uthaake yahan daal — architecture, dataset size, accuracy/latency number. -->
 
 ---
 
-## 📊 Weekly Development Breakdown
+### 🤖 Agentic AI for Academic Benefit Nomination · *in progress*
+Five-stage agentic system for my university's academic benefits pipeline: VLM document extraction → deterministic eligibility rule engine → bi-encoder + cross-encoder course mapping with contrastive fine-tuning → calibrated approval prediction → agent orchestration with mandatory human confirmation.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+Evaluated on Precision@3 / MRR / NDCG@5 with forward-chaining validation, not random splits. Prompt-injection defences built in at the document-parsing layer. Shipping October 2026.
+
+`Python` `sentence-transformers` `LLM agents` `FastAPI`
 
 ---
 
+## 🛠️ Stack
+
+**Comfortable**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Currently learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Credential | Issuer | Date |
+|---|---|---|
+| Oracle Cloud Infrastructure 2025 Certified **AI Foundations Associate** | Oracle | Nov 2025 |
+| Oracle Data Platform 2025 Certified **Foundations Associate** | Oracle | May 2026 |
+| DSA Placement Bootcamp — **Grade O (90%+)** | LPU Centre for Professional Enhancement | Jul 2026 |
+| AI Mentorship Internship | Launched Global × Deevelo X | May–Jun 2025 |
+
+---
+
+## 🎯 Currently
+
+- 🔬 Shipping the agentic nomination system — prototype Aug, deployment Oct 2026
+- 📈 Andrew Ng's ML Specialization → Deep Learning Specialization
+- 🧮 **GATE DA** — 2027 practice run, 2028 for real
+- ⚔️ DSA in C++, arrays se shuru, har topic cover karna hai
+- 💬 Open to AI/ML internships and research collaborations
+
+---
+
+## 📊 GitHub
+
 <div align="center">
 
-### 🌟 "Code is poetry written in logic" 🌟
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TheGodVishnu21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d9ff&title_color=00d9ff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodVishnu21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8" />
 
-**Thanks for visiting my profile!** ⭐️ **Star my repositories** if you find them interesting!
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheGodVishnu21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-**© 2025 Ishaan Sandhwar | The God Empire** 🚀
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](#)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-green?style=for-the-badge)](#)
+*Off the clock: chess, PC gaming, and dark anime.*
 
 </div>
