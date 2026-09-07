@@ -58,21 +58,6 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 ### 🚀 Featured Projects
 
-**🎓 Agentic AI for Academic Benefit Nomination — *Sep 2026***
-*EDU Revolution, Lovely Professional University*
-
-- Built a five-stage system that reads student achievement documents, checks eligibility against published rules, maps achievements to university courses, and drafts nominations for human approval.
-- Fine-tuned a bi-encoder on hard negatives mined from the retriever's own top-20 errors — **+0.454 MRR** over TF-IDF and **+0.133 P@1** over the zero-shot encoder on held-out queries.
-- Document-type classifier (MiniLM embeddings + keyword hybrid) reached **macro F1 0.916** against a 0.394 phrase-table baseline on a grouped unseen-template split.
-- Benchmarked a cross-encoder reranker, found it memorised training queries and transferred nothing (held-out separation −0.037), and **shipped it disabled** with the negative result documented.
-- Extraction cascade (PDF text layer → local OCR → vision LLM), inspectable rule engine, server-side RBAC, **1,071 tests**.
-
-**Stack:** `Python` `PyTorch` `Sentence Transformers` `FastAPI` `scikit-learn` `React` `TypeScript`
-
-🔒 *Private repository — graded academic deliverable. Walkthrough available on request.*
-
-<br>
-
 **🌆 LifeLine — Smart City Disaster Response & Evacuation Simulator — *Jul 2026***
 *Data Structures & Algorithms — Team of 5*
 
