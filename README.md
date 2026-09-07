@@ -97,10 +97,4 @@ Team project (4 members). **[github.com/TheGodVishnu21/product-intelligence-engi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGodVishnu21&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" alt="GitHub stats">
-</p>
-
----
-
 Outside of code I run a Discord community and play more games than I should admit.
