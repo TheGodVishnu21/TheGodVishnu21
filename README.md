@@ -96,7 +96,7 @@ Most of my work sits around **retrieval and LLM pipelines**, with a stubborn hab
 
 **Stack:** `Python` `LLMs` `RAG` `SQLite` `Knowledge Graphs`
 
-🔗 [GitHub](https://github.com/TheGodVishnu21/product-intelligence-engine)
+🔗 [GitHub](https://github.com/TheGodVishnu21/product-intelligence-engine) · [Live Demo](https://catalog-intelligence-engine.streamlit.app/)
 
 ---
 
